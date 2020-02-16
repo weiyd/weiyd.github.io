@@ -7,6 +7,10 @@ categories: []
 
 ---
 
+​    ![bg](/bg.jpg)
+
+<!--more-->
+
 # 配置环境
 
 ## 安装Node js

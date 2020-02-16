@@ -1,15 +1,22 @@
 ---
-typora-copy-images-to: 回归
-typora-root-url: 回归
+title: 李宏毅深度学习笔记第1节-Regression
+tags: [机器学习, 深度学习, 回归]
+categories: [机器学习, 深度学习]
+typora-copy-images-to: 李宏毅深度学习笔记第1节-Regression
+typora-root-url: 李宏毅深度学习笔记第1节-Regression
 ---
 
-![bg](/bg.jpg)
+![bg](/bg.jpg)    
 
 <!--more-->
 
 # 回归的应用
 
+
+
 ![image-20200209105303305](image-20200209105303305.png)
+
+
 
 # 步骤
 
@@ -69,6 +76,8 @@ typora-root-url: 回归
 
 > 要选择一个最适合的model
 
+
+
 # Model的选择
 
 在实际应用中，会遇到在function set选择的function在测试集上都得到不理想结果。以下图为例，可以看到数据受到物种因素的影响很大，所以要重新设计model。针对不同的物种进行拟合。
@@ -89,6 +98,6 @@ typora-root-url: 回归
 
 ![image-20200209142453987](image-20200209142453987.png)
 
-在Training上，\lambda越大误差越大，说明\lambda很小时候，主要是损失函数的前半部分占主导作用，导致过拟合。当\lambda变大时候，损失函数的右半部分占主导作用，使得w变小，阻止了原本过拟合时w过大的情况。但是误差会变大。
+在Training上，$\lambda$越大误差越大，说明$\lambda$很小时候，主要是损失函数的前半部分占主导作用，导致过拟合。当$\lambda$变大时候，损失函数的右半部分占主导作用，使得w变小，阻止了原本过拟合时w过大的情况。但是误差会变大。
 
 > 在做正则惩罚的时候是没有必要对b进行惩罚的。因为function的平滑程度是由w决定的，和b是没有关系的。
