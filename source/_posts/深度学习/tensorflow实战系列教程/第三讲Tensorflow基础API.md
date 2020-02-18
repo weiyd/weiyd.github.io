@@ -6,7 +6,7 @@ typora-root-url: 第三讲Tensorflow基础API
 typora-copy-images-to: 第三讲Tensorflow基础API
 ---
 
-​    
+![](/bg.jpg)   
 
 <!--more-->
 

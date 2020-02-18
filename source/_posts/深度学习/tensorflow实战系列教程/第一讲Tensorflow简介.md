@@ -6,7 +6,7 @@ typora-root-url: 第一讲Tensorflow简介
 typora-copy-images-to: 第一讲Tensorflow简介
 ---
 
-​    
+​    ![](/bg-1582037000909.jpg)   
 
 <!--more-->
 

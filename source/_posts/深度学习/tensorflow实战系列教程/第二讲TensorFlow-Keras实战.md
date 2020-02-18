@@ -6,7 +6,7 @@ typora-root-url: 第二讲TensorFlow-Keras实战
 typora-copy-images-to: 第二讲TensorFlow-Keras实战
 ---
 
-​    
+![](/bg.jpg) 
 
 <!--more-->
 
