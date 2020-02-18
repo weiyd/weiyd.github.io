@@ -2,8 +2,8 @@
 title: Tensorflow系列教程1-简介
 categories: [TensorFlow系列教程]
 tags: [Tensorflow]
-typora-root-url: 第一讲
-typora-copy-images-to: 第一讲
+typora-root-url: 第一讲Tensorflow简介
+typora-copy-images-to: 第一讲Tensorflow简介
 ---
 
 ​    

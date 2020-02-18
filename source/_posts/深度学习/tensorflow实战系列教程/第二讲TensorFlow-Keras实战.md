@@ -2,8 +2,8 @@
 title: Tensorflow系列教程2-Keras实战
 categories: [TensorFlow系列教程]
 tags: [Tensorflow]
-typora-root-url: 第二讲
-typora-copy-images-to: 第二讲
+typora-root-url: 第二讲TensorFlow-Keras实战
+typora-copy-images-to: 第二讲TensorFlow-Keras实战
 ---
 
 ​    
