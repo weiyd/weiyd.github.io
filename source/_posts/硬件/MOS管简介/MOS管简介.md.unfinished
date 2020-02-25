@@ -1,0 +1,19 @@
+---
+title: MOS管简介
+date: 2017-8-31 15:56:00
+tags:
+	[MOS管]
+categories:
+	- 硬件
+	- 基础
+copyright:
+	yitalkabe
+
+---
+## 前言
+&emsp;&emsp;大学学的模电全还给[李老师](https://njuferret.github.io/)了，今天补习一下MOS管的基础知识。MOS管学名是场效应管，是金属-氧化物-半导体型场效应管，英文：MOSFET（Metal Oxide Semiconductor Field Effect Transistor），属于绝缘栅型。FET因制造工艺简单，功耗小，温度特性好，输入电阻高等优点，得到了广泛的应用。
+<center> ![FET分类.jpg](\2017\08\31\硬件\MOS管简介\FET分类.jpg) </center>
+## N沟道增强型MOS管
+&emsp;&emsp;N沟道增强型MOS管由四个电极组成，分别是：漏极D，源极S，栅极G和衬底B。如图所示:
+<center> ![N沟道增强型.jpg](\2017\08\31\硬件\MOS管简介\N沟道增强型.jpg)![N沟道增强型2.jpg](\2017\08\31\硬件\MOS管简介\N沟道增强型2.jpg)
+
